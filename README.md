@@ -1,4 +1,4 @@
-# Designb-Patterns
+# Design-Patterns
 ### with descriptions and C++ examples 
 
 ## Singleton
